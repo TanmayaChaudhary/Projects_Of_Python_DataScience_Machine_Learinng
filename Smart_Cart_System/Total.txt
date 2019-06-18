@@ -1,0 +1,9 @@
+Cutomer Bill
+
+Pizza    Rs. 150 + 18% GST Rs.27.0
+Burger    Rs. 30 + 18% GST Rs.5.3999999999999995
+Total = Rs.212.4Cutomer Bill
+
+Pizza    Rs. 150 + 18% GST Rs.27.0
+Burger    Rs. 30 + 18% GST Rs.5.3999999999999995
+Total = Rs.212.4
